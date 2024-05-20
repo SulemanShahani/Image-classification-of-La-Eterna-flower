@@ -31,12 +31,6 @@ Each image in the dataset has been preprocessed and formatted to the dimensions 
 ## Results
 The trained model achieved satisfactory performance in classifying La Eterna flowers from other types of flowers. It demonstrated robustness and accuracy in its predictions.
 
-## Future Improvements
-In the future, I aim to enhance the model's performance by exploring advanced techniques such as transfer learning, fine-tuning, and ensembling. Additionally, I plan to incorporate user feedback and further refine the web application interface for a seamless user experience.
-
-## Conclusion
- I'm excited about the potential impact of this project and look forward to further refining and expanding it in the future.
-
 
 
 ## Contact Information
@@ -44,5 +38,6 @@ For inquiries or collaborations, feel free to reach out to me via email or Linke
 
 ---
 
-**Your Name**  
+**Your Name**   Muhammad Suleman
+LinkedIn: https://www.linkedin.com/in/muhammadsulemanneduet/
 **Email:** muhammadsuleman94@hotmail.com
