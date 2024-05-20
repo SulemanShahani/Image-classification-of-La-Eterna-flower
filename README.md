@@ -1,4 +1,4 @@
-# Z by HP Unlocked Challenge 4 - Image Classification
+ Image Classification
 
 ![La Eterna](data_cleaned/Train/la_eterna/la_eterna_14.jpg?raw=True "La Eterna") ![Other Flower](data_cleaned/Train/other_flowers/flower_451.jpg?raw=True "Other Flower") ![Other Flower #2](data_cleaned/Train/other_flowers/flower_151.jpg?raw=True "Other Flower #2")
 
@@ -31,7 +31,10 @@ Each image in the dataset has been preprocessed and formatted to the dimensions 
 ## Results
 The trained model achieved satisfactory performance in classifying La Eterna flowers from other types of flowers. It demonstrated robustness and accuracy in its predictions.
 
+<img width="917" alt="Capture" src="https://github.com/SulemanShahani/Image-classification-of-La-Eterna-flower/assets/164818514/6550e677-f606-43ba-b1ee-0a9e77af5995">
 
+
+<img width="907" alt="Captures" src="https://github.com/SulemanShahani/Image-classification-of-La-Eterna-flower/assets/164818514/25ed5114-9528-4918-85f9-e89b4e2e1522">
 
 ## Contact Information
 For inquiries or collaborations, feel free to reach out to me via email or LinkedIn. Thank you for considering my submission!
